@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+main{
+    gap: 25px 0px;
+}
+
+.officer{
+    width: 100%;
+    aspect-ratio: 1/0.2;
+    background: #b2b2b2;
+    border-radius: 15px;
+    padding: 25px;
+}
